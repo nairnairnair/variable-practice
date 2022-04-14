@@ -12,3 +12,4 @@ variables assigned to booleans:
 var sleepy = false
 var hungry = false
 var stressed = true
+//okay, i'm not THAT stressed rn
