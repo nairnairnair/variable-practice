@@ -8,4 +8,7 @@ var pizzasOrdered = 2
 var age = 26
 var catsPetted = 1000
 
-variables assigned to 
+variables assigned to booleans:
+var sleepy = false
+var hungry = false
+var stressed = true
